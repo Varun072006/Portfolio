@@ -1,4 +1,4 @@
-# Varun S — AI & Neural Systems Portfolio
+# Varun S — Portfolio
 
 This repository contains the source code for my personal portfolio website.  
 It highlights my background, skills, education, and projects in **Machine Learning,
